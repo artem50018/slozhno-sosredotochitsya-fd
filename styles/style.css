@@ -261,7 +261,7 @@
   text-shadow:4px 4px 0 var(--accent-color);
 }
 
-@media (min-width: 768px) {
+@media (width >= 768px) {
 
   .header {
     display: grid;
@@ -401,7 +401,7 @@
 
 }
 
-@media screen and (min-width: 1024px) {
+@media (width >= 1024px) {
 
   .header {
     grid-template-columns: repeat(1, 1fr);
