@@ -10,12 +10,16 @@
   --header-title-color:#DB00FF;
   --header-text: #000028;
   --title-decor: #FF0070;
-  --section--title: #ff0070;
+  --section-title: #ff0070;
   --card-title: #000028;
   --card-text: #F1B2CE;
   --rec-display: inline;
+  --rec-color: #ff0070;
   --outline-color: #ff0070;
+  --hover-color: rgba(255, 0, 112, 0.4);
   --button-text:#FF0070;
   --decorated-zone-color:#ff0070;
 }
+
+
 
